@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Helmet } from "react-helmet-async";
 import styles from "./FAQSection.module.scss";
-import faqData from "./faqData";
+import faqData from "../../../src/faqData";
 
 const FAQSection = ({
   title = "Q & A",
