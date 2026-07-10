@@ -67,16 +67,16 @@ export default function Customer() {
     <>
 <Helmet>
   {/* 페이지별 메타: title/description/og/canonical 만 관리 */}
-  <title>고덕 수자인풍경채 | 관심고객등록</title>
+  <title>평택 고덕 수자인풍경채 모델하우스 | 관심고객등록</title>
 
   <meta
     name="description"
-    content="고덕 수자인풍경채 관심고객등록 안내. 평택 고덕국제신도시 수자인풍경채의 분양 정보, 청약 일정, 모델하우스 소식 및 주요 안내를 가장 먼저 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 관심고객등록 안내. 평택 고덕국제신도시 수자인풍경채의 분양 정보, 청약 일정, 모델하우스 소식 및 주요 안내를 가장 먼저 확인하세요."
   />
 
   <meta
     name="keywords"
-    content="고덕 수자인풍경채 관심고객등록, 고덕국제신도시 수자인풍경채, 평택 고덕 분양, 고덕 수자인풍경채 청약, 고덕 수자인풍경채 모델하우스"
+    content="평택 고덕 수자인풍경채 모델하우스 관심고객등록, 고덕국제신도시 수자인풍경채, 평택 고덕 분양, 평택 고덕 수자인풍경채 모델하우스 청약, 평택 고덕 수자인풍경채 모델하우스"
   />
 
   <meta name="robots" content="index,follow" />
@@ -88,16 +88,16 @@ export default function Customer() {
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="고덕 수자인풍경채" />
+  <meta property="og:site_name" content="평택 고덕 수자인풍경채 모델하우스" />
 
   <meta
     property="og:title"
-    content="고덕 수자인풍경채 | 관심고객등록"
+    content="평택 고덕 수자인풍경채 모델하우스 | 관심고객등록"
   />
 
   <meta
     property="og:description"
-    content="고덕 수자인풍경채 관심고객 등록 시 분양 일정, 모델하우스 소식, 청약 정보 등 주요 안내를 우선 받아보세요."
+    content="평택 고덕 수자인풍경채 모델하우스 관심고객 등록 시 분양 일정, 모델하우스 소식, 청약 정보 등 주요 안내를 우선 받아보세요."
   />
 
   <meta
@@ -118,12 +118,12 @@ export default function Customer() {
 
   <meta
     name="twitter:title"
-    content="고덕 수자인풍경채 | 관심고객등록"
+    content="평택 고덕 수자인풍경채 모델하우스 | 관심고객등록"
   />
 
   <meta
     name="twitter:description"
-    content="고덕 수자인풍경채 관심고객 등록으로 분양 일정, 청약 정보, 모델하우스 소식을 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 관심고객 등록으로 분양 일정, 청약 정보, 모델하우스 소식을 확인하세요."
   />
 
   <meta
@@ -142,12 +142,12 @@ export default function Customer() {
       "@context": "https://schema.org",
       "@type": "WebPage",
 
-      "name":"고덕 수자인풍경채 - 관심고객등록",
+      "name":"평택 고덕 수자인풍경채 모델하우스 - 관심고객등록",
 
       "url":"https://www.diarivalencia.com/Promotion/Customer",
 
       "description":
-      "고덕 수자인풍경채 관심고객등록 페이지입니다. 분양 일정, 청약 정보, 모델하우스 소식 등 주요 안내를 우선 제공합니다.",
+      "평택 고덕 수자인풍경채 모델하우스 관심고객등록 페이지입니다. 분양 일정, 청약 정보, 모델하우스 소식 등 주요 안내를 우선 제공합니다.",
 
       "primaryImageOfPage":{
         "@type":"ImageObject",
@@ -183,7 +183,7 @@ export default function Customer() {
       <FixIcon />
 
       {/* 배너 */}
-      <Bener title="고덕 수자인풍경채" />
+      <Bener title="평택 고덕 수자인풍경채 모델하우스" />
 
       {/* 네비게이션 탭 */}
       <MenuBar contents={promoMenu} />
@@ -193,7 +193,7 @@ export default function Customer() {
         {/* ─── 좌측 카드 ─── */}
         <div className={styles.customerLeft}>
           <div className={styles.textBlock}>
-            <h2 className={styles.projectName}>고덕 수자인풍경채</h2>
+            <h2 className={styles.projectName}>평택 고덕 수자인풍경채 모델하우스</h2>
             <h3 className={styles.pageTitle}>방문예약등록</h3>
           </div>
           <img

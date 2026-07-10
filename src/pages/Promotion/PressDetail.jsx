@@ -45,7 +45,7 @@ export default function PressDetail() {
       <Bener />
       <MenuBar
         contents={[
-          { title: "언론보도", url: `/고덕 수자인풍경채/press` },
+          { title: "언론보도", url: `/평택 고덕 수자인풍경채 모델하우스/press` },
           { title: "방문예약등록", url: `/purgio/customer` },
         ]}
       />

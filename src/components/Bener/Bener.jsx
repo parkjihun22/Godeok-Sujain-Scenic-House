@@ -20,7 +20,7 @@ const Bener = ({ title }) => {
             <img
                 className={`${styles.benerImage} ${isLoaded ? styles.showImage : ''}`}
                 src={img}
-                alt="고덕 수자인풍경채 배너이미지"
+                alt="평택 고덕 수자인풍경채 모델하우스 배너이미지"
             />
             <div className={styles.overlay}></div>
             <div
@@ -40,14 +40,14 @@ const Bener = ({ title }) => {
 export default Bener;
 
 const contents = (text, isLoaded) => {
-  if (text === '홍보영상' || text === '체크포인트' || text === '당첨자서류안내' || text === '고덕 수자인풍경채') {
+  if (text === '홍보영상' || text === '체크포인트' || text === '당첨자서류안내' || text === '평택 고덕 수자인풍경채 모델하우스') {
     return (
       <>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
           평택 고덕국제신도시에서 만나는 새로운 프리미엄 주거 가치.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          고덕 수자인풍경채, 우수한 입지와 생활 인프라를 누리는 브랜드 아파트.
+          평택 고덕 수자인풍경채 모델하우스, 우수한 입지와 생활 인프라를 누리는 브랜드 아파트.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
           교통·교육·생활·미래가치를 모두 갖춘 고덕국제신도시 프리미엄 라이프.
@@ -58,7 +58,7 @@ const contents = (text, isLoaded) => {
     return (
       <>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          평택 고덕국제신도시 중심 입지에 조성되는 고덕 수자인풍경채.
+          평택 고덕국제신도시 중심 입지에 조성되는 평택 고덕 수자인풍경채 모델하우스.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
           브랜드 프리미엄과 함께 편리한 교통·교육·생활 환경을 누릴 수 있는 주거 단지.
@@ -67,7 +67,7 @@ const contents = (text, isLoaded) => {
           실거주와 미래가치를 함께 고려한 고덕국제신도시 대표 주거 선택지.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          고덕 수자인풍경채
+          평택 고덕 수자인풍경채 모델하우스
         </div>
       </>
     );
@@ -86,13 +86,13 @@ const contents = (text, isLoaded) => {
     return (
       <>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          쾌적한 주거 환경과 효율적인 공간 설계를 고려한 고덕 수자인풍경채.
+          쾌적한 주거 환경과 효율적인 공간 설계를 고려한 평택 고덕 수자인풍경채 모델하우스.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
           다양한 커뮤니티와 조경 특화 설계로 일상 속 여유를 제공합니다.
         </div>
         <div className={`${styles.text} ${isLoaded ? styles.showText : ''}`}>
-          고덕 수자인풍경채, 새로운 주거 기준을 제안합니다.
+          평택 고덕 수자인풍경채 모델하우스, 새로운 주거 기준을 제안합니다.
         </div>
       </>
     );

@@ -51,14 +51,14 @@ const BusinessGuide2 = () => {
     return (
         <div className={styles.container}>
 <Helmet>
-  <title>고덕 수자인풍경채 | 분양일정 안내</title>
+  <title>평택 고덕 수자인풍경채 모델하우스 | 분양일정 안내</title>
   <meta
     name="description"
-    content="고덕 수자인풍경채 분양일정 안내. 평택 고덕국제신도시 수자인풍경채의 특별공급, 일반공급 1순위·2순위, 당첨자 발표, 서류접수, 정당계약 등 주요 청약 일정을 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 분양일정 안내. 평택 고덕국제신도시 수자인풍경채의 특별공급, 일반공급 1순위·2순위, 당첨자 발표, 서류접수, 정당계약 등 주요 청약 일정을 확인하세요."
   />
   <meta
     name="keywords"
-    content="고덕 수자인풍경채 분양일정, 고덕국제신도시 수자인풍경채 청약, 평택 고덕 분양일정, 고덕 수자인풍경채 모집공고, 고덕 수자인풍경채 계약"
+    content="평택 고덕 수자인풍경채 모델하우스 분양일정, 고덕국제신도시 수자인풍경채 청약, 평택 고덕 분양일정, 평택 고덕 수자인풍경채 모델하우스 모집공고, 평택 고덕 수자인풍경채 모델하우스 계약"
   />
   <link rel="canonical" href="https://www.diarivalencia.com/BusinessGuide/plan" />
   <meta name="robots" content="index,follow" />
@@ -70,22 +70,22 @@ const BusinessGuide2 = () => {
 <Bener title="분양일정" />
 <MenuBar contents={menuContents} />
 
-<h1 className={styles.screenReaderOnly}>고덕 수자인풍경채 - 분양일정</h1>
+<h1 className={styles.screenReaderOnly}>평택 고덕 수자인풍경채 모델하우스 - 분양일정</h1>
 <p className={styles.screenReaderOnly}>
-  고덕 수자인풍경채 분양일정을 한눈에 확인하세요.
+  평택 고덕 수자인풍경채 모델하우스 분양일정을 한눈에 확인하세요.
   평택 고덕국제신도시 수자인풍경채의 특별공급, 일반공급 1순위·2순위 청약 접수,
   당첨자 발표, 서류접수, 정당계약까지 주요 청약 일정을 안내합니다.
 </p>
 
 <div className={styles.textBox}>
   <div>평택 고덕국제신도시의 새로운 주거 가치</div>
-  <div>고덕 수자인풍경채 분양일정을 확인하세요.</div>
+  <div>평택 고덕 수자인풍경채 모델하우스 분양일정을 확인하세요.</div>
 </div>
 
 <img
   className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`}
   src={page1}
-  alt="고덕 수자인풍경채 분양일정 및 청약 일정 안내"
+  alt="평택 고덕 수자인풍경채 모델하우스 분양일정 및 청약 일정 안내"
 />
 
 <div className={styles.readyContainer}>

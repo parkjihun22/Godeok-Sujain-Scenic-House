@@ -52,16 +52,16 @@ const ComplexGuide1 = () => {
   return (
     <div className={styles.container}>
 <Helmet>
-  <title>고덕 수자인풍경채 | 동·호수 배치</title>
+  <title>평택 고덕 수자인풍경채 모델하우스 | 동·호수 배치</title>
 
   <meta
     name="description"
-    content="고덕 수자인풍경채 동·호수 배치도 안내. 평택 고덕국제신도시 수자인풍경채의 세대 위치, 동별 배치, 조망, 일조 및 생활 동선을 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 동·호수 배치도 안내. 평택 고덕국제신도시 수자인풍경채의 세대 위치, 동별 배치, 조망, 일조 및 생활 동선을 확인하세요."
   />
 
   <meta
     name="keywords"
-    content="고덕 수자인풍경채 동호수배치, 고덕 수자인풍경채 배치도, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 고덕 수자인풍경채 세대배치"
+    content="평택 고덕 수자인풍경채 모델하우스 동호수배치, 평택 고덕 수자인풍경채 모델하우스 배치도, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 평택 고덕 수자인풍경채 모델하우스 세대배치"
   />
 
   <link
@@ -73,11 +73,11 @@ const ComplexGuide1 = () => {
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="고덕 수자인풍경채" />
+  <meta property="og:site_name" content="평택 고덕 수자인풍경채 모델하우스" />
 
   <meta
     property="og:title"
-    content="고덕 수자인풍경채 | 동·호수 배치"
+    content="평택 고덕 수자인풍경채 모델하우스 | 동·호수 배치"
   />
 
   <meta
@@ -103,11 +103,11 @@ const ComplexGuide1 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-고덕 수자인풍경채 - 동·호수 배치
+평택 고덕 수자인풍경채 모델하우스 - 동·호수 배치
 </h1>
 
 <p className={styles.screenReaderOnly}>
-고덕 수자인풍경채 동·호수 배치 페이지입니다.
+평택 고덕 수자인풍경채 모델하우스 동·호수 배치 페이지입니다.
 평택 고덕국제신도시 수자인풍경채의 세대 위치와
 동별 배치, 조망 방향, 일조 환경 및 생활 동선을 확인하고
 원하는 세대 위치를 비교할 수 있습니다.
@@ -115,13 +115,13 @@ const ComplexGuide1 = () => {
 
 <div className={styles.textBox}>
   <div>평택 고덕국제신도시의 프리미엄 주거 설계</div>
-  <div>고덕 수자인풍경채 동·호수 배치를 확인하세요.</div>
+  <div>평택 고덕 수자인풍경채 모델하우스 동·호수 배치를 확인하세요.</div>
 </div>
 
 <img
   className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
   src={page1}
-  alt="고덕 수자인풍경채 동호수 배치도 및 세대 위치 안내"
+  alt="평택 고덕 수자인풍경채 모델하우스 동호수 배치도 및 세대 위치 안내"
   onLoad={handleImageLoad}
 />
 

@@ -45,16 +45,16 @@ const Brand2 = () => {
 	return (
 		<div className={styles.container}>
 <Helmet>
-  <title>고덕 수자인풍경채 | 홍보영상</title>
+  <title>평택 고덕 수자인풍경채 모델하우스 | 홍보영상</title>
 
   <meta
     name="description"
-    content="고덕 수자인풍경채 홍보영상 안내. 평택 고덕국제신도시 수자인풍경채의 브랜드 가치, 입지환경, 주거 프리미엄과 미래가치를 영상으로 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 홍보영상 안내. 평택 고덕국제신도시 수자인풍경채의 브랜드 가치, 입지환경, 주거 프리미엄과 미래가치를 영상으로 확인하세요."
   />
 
   <meta
     name="keywords"
-    content="고덕 수자인풍경채 홍보영상, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 고덕 수자인풍경채 모델하우스, 고덕 수자인풍경채 영상"
+    content="평택 고덕 수자인풍경채 모델하우스 홍보영상, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 평택 고덕 수자인풍경채 모델하우스, 평택 고덕 수자인풍경채 모델하우스 영상"
   />
 
   <link
@@ -66,11 +66,11 @@ const Brand2 = () => {
 
   {/* OG 태그 */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="고덕 수자인풍경채" />
+  <meta property="og:site_name" content="평택 고덕 수자인풍경채 모델하우스" />
 
   <meta
     property="og:title"
-    content="고덕 수자인풍경채 | 홍보영상"
+    content="평택 고덕 수자인풍경채 모델하우스 | 홍보영상"
   />
 
   <meta
@@ -93,12 +93,12 @@ const Brand2 = () => {
 
   <meta
     name="twitter:title"
-    content="고덕 수자인풍경채 | 홍보영상"
+    content="평택 고덕 수자인풍경채 모델하우스 | 홍보영상"
   />
 
   <meta
     name="twitter:description"
-    content="고덕 수자인풍경채 입지환경과 브랜드 가치를 영상으로 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 입지환경과 브랜드 가치를 영상으로 확인하세요."
   />
 
   <meta
@@ -114,18 +114,18 @@ const Brand2 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-고덕 수자인풍경채 - 홍보영상
+평택 고덕 수자인풍경채 모델하우스 - 홍보영상
 </h1>
 
 <p className={styles.screenReaderOnly}>
-고덕 수자인풍경채 홍보영상 페이지입니다.
+평택 고덕 수자인풍경채 모델하우스 홍보영상 페이지입니다.
 평택 고덕국제신도시 수자인풍경채의 브랜드 가치와 입지환경,
 생활 인프라, 미래가치 및 주거 프리미엄을 영상으로 확인할 수 있습니다.
 </p>
 
 <div className={`${styles.textBox} ${isTextVisible ? styles.active : ''}`}>
   <div>평택 고덕국제신도시의 새로운 주거 프리미엄</div>
-  <div>고덕 수자인풍경채의 브랜드 가치를 영상으로 만나보세요.</div>
+  <div>평택 고덕 수자인풍경채 모델하우스의 브랜드 가치를 영상으로 만나보세요.</div>
 </div>
 
 

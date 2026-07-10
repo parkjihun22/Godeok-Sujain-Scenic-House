@@ -51,16 +51,16 @@ const Brand1 = () => {
     return (
         <div className={styles.container}>
 <Helmet>
-  <title>고덕 수자인풍경채 | 브랜드 소개</title>
+  <title>평택 고덕 수자인풍경채 모델하우스 | 브랜드 소개</title>
 
   <meta
     name="description"
-    content="고덕 수자인풍경채 브랜드 소개. 평택 고덕국제신도시 수자인풍경채의 브랜드 가치, 주거 철학, 생활 인프라와 미래가치를 소개합니다."
+    content="평택 고덕 수자인풍경채 모델하우스 브랜드 소개. 평택 고덕국제신도시 수자인풍경채의 브랜드 가치, 주거 철학, 생활 인프라와 미래가치를 소개합니다."
   />
 
   <meta
     name="keywords"
-    content="고덕 수자인풍경채 브랜드소개, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 고덕 수자인풍경채 브랜드, 수자인 풍경채"
+    content="평택 고덕 수자인풍경채 모델하우스 브랜드소개, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 평택 고덕 수자인풍경채 모델하우스 브랜드, 수자인 풍경채"
   />
 
   <link
@@ -71,11 +71,11 @@ const Brand1 = () => {
   <meta name="robots" content="index,follow" />
 
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="고덕 수자인풍경채" />
+  <meta property="og:site_name" content="평택 고덕 수자인풍경채 모델하우스" />
 
   <meta
     property="og:title"
-    content="고덕 수자인풍경채 | 브랜드 소개"
+    content="평택 고덕 수자인풍경채 모델하우스 | 브랜드 소개"
   />
 
   <meta
@@ -101,26 +101,26 @@ const Brand1 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-고덕 수자인풍경채 - 브랜드 소개
+평택 고덕 수자인풍경채 모델하우스 - 브랜드 소개
 </h1>
 
 <p className={styles.screenReaderOnly}>
-고덕 수자인풍경채 브랜드 소개 페이지입니다.
+평택 고덕 수자인풍경채 모델하우스 브랜드 소개 페이지입니다.
 평택 고덕국제신도시 수자인풍경채의 브랜드 가치와 주거 철학,
 생활 인프라, 쾌적한 단지 환경, 미래가치를 소개합니다.
-고덕 수자인풍경채는 실용적인 공간 설계와 품격 있는 주거 환경을 바탕으로
+평택 고덕 수자인풍경채 모델하우스는 실용적인 공간 설계와 품격 있는 주거 환경을 바탕으로
 새로운 주거 가치를 제안합니다.
 </p>
 
 <div className={`${styles.textBox} ${isTextVisible ? styles.active : ''}`}>
   <div>평택 고덕국제신도시의 생활을 가까이</div>
-  <div>고덕 수자인풍경채, 새로운 주거 가치</div>
+  <div>평택 고덕 수자인풍경채 모델하우스, 새로운 주거 가치</div>
 </div>
 
 <img
   className={`${styles.image} ${isImageVisible ? styles.visible : ''}`}
   src={page1}
-  alt="고덕 수자인풍경채 브랜드 소개 및 고덕국제신도시 주거 가치 이미지"
+  alt="평택 고덕 수자인풍경채 모델하우스 브랜드 소개 및 고덕국제신도시 주거 가치 이미지"
 />
             <Footer />
         </div>

@@ -46,7 +46,7 @@ const LocationSection = [
   },
   {
     img: section2Image5,
-    titleText: "브랜드 프리미엄 주거단지<br />고덕 수자인풍경채",
+    titleText: "브랜드 프리미엄 주거단지<br />평택 고덕 수자인풍경채 모델하우스",
     contentText:
       "실수요 중심의 공간 설계와 주거 가치<br />고덕국제신도시 프리미엄 라이프 제안",
   },
@@ -93,16 +93,16 @@ const LocationEnvironment1 = () => {
     <div className={styles.container}>
 <Helmet>
   {/* 페이지별 메타: title/description/og/canonical 만 관리 */}
-  <title>고덕 수자인풍경채 | 입지환경</title>
+  <title>평택 고덕 수자인풍경채 모델하우스 | 입지환경</title>
 
   <meta
     name="description"
-    content="고덕 수자인풍경채 입지환경 안내. 평택 고덕국제신도시 수자인풍경채의 생활 인프라, 서정리역 접근성, BRT 예정 노선, 교육환경, 공원·녹지 환경을 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 입지환경 안내. 평택 고덕국제신도시 수자인풍경채의 생활 인프라, 서정리역 접근성, BRT 예정 노선, 교육환경, 공원·녹지 환경을 확인하세요."
   />
 
   <meta
     name="keywords"
-    content="고덕 수자인풍경채 입지환경, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 서정리역 아파트, 고덕국제신도시 입지, 고덕 수자인풍경채 교통"
+    content="평택 고덕 수자인풍경채 모델하우스 입지환경, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 서정리역 아파트, 고덕국제신도시 입지, 평택 고덕 수자인풍경채 모델하우스 교통"
   />
 
   <meta name="robots" content="index,follow" />
@@ -114,11 +114,11 @@ const LocationEnvironment1 = () => {
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="고덕 수자인풍경채" />
+  <meta property="og:site_name" content="평택 고덕 수자인풍경채 모델하우스" />
 
   <meta
     property="og:title"
-    content="고덕 수자인풍경채 | 입지환경"
+    content="평택 고덕 수자인풍경채 모델하우스 | 입지환경"
   />
 
   <meta
@@ -144,7 +144,7 @@ const LocationEnvironment1 = () => {
 
   <meta
     name="twitter:title"
-    content="고덕 수자인풍경채 | 입지환경"
+    content="평택 고덕 수자인풍경채 모델하우스 | 입지환경"
   />
 
   <meta
@@ -168,12 +168,12 @@ const LocationEnvironment1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
 
-      "name": "고덕 수자인풍경채 - 입지환경",
+      "name": "평택 고덕 수자인풍경채 모델하우스 - 입지환경",
 
       "url": "https://www.diarivalencia.com/LocationEnvironment/intro",
 
       "description":
-        "고덕 수자인풍경채 입지환경 페이지입니다. 평택 고덕국제신도시 수자인풍경채의 생활 인프라, 서정리역 접근성, BRT 예정 노선, 교육환경, 공원·녹지 환경을 안내합니다.",
+        "평택 고덕 수자인풍경채 모델하우스 입지환경 페이지입니다. 평택 고덕국제신도시 수자인풍경채의 생활 인프라, 서정리역 접근성, BRT 예정 노선, 교육환경, 공원·녹지 환경을 안내합니다.",
 
       "primaryImageOfPage": {
         "@type": "ImageObject",
@@ -211,11 +211,11 @@ const LocationEnvironment1 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-  고덕 수자인풍경채 - 입지환경
+  평택 고덕 수자인풍경채 모델하우스 - 입지환경
 </h1>
 
 <p className={styles.screenReaderOnly}>
-  고덕 수자인풍경채 입지환경 페이지입니다.
+  평택 고덕 수자인풍경채 모델하우스 입지환경 페이지입니다.
   평택 고덕국제신도시 수자인풍경채의 생활 인프라와 서정리역 접근성,
   BRT 예정 노선, 교육환경, 공원·녹지 환경 등 입지 가치를 안내합니다.
 </p>
@@ -223,13 +223,13 @@ const LocationEnvironment1 = () => {
 <div className={styles.textBox}>
   <div>평택 고덕국제신도시 생활권에서</div>
   <div>삶의 가치가 높아지는 곳</div>
-  <div>고덕 수자인풍경채가 새로운 주거 가치로 찾아옵니다.</div>
+  <div>평택 고덕 수자인풍경채 모델하우스가 새로운 주거 가치로 찾아옵니다.</div>
 </div>
 
 <img
   src={page1}
   className={styles.image2}
-  alt="고덕 수자인풍경채 입지환경 및 고덕국제신도시 생활권 이미지"
+  alt="평택 고덕 수자인풍경채 모델하우스 입지환경 및 고덕국제신도시 생활권 이미지"
 />
 
       <div className={styles.section2}>
@@ -244,7 +244,7 @@ const LocationEnvironment1 = () => {
 
       <div className={styles.commonBox}>
         <div className={styles.notice}>
-          ※본 홍보물의 내용과 지역도는 소비자의 이해를 돕기 위한 것으로, 개발 예정•계획 및 교통, 학교 계획 등에 관한 사항은 해당 기관의 아래 자료를 토대로 제작되었습니다. 사업계획 및 일정은 개발계획별 사업주체에 의해 변경될 수 있으며, 고덕 수자인풍경채사업주체 및 시공사와 무관합니다.
+          ※본 홍보물의 내용과 지역도는 소비자의 이해를 돕기 위한 것으로, 개발 예정•계획 및 교통, 학교 계획 등에 관한 사항은 해당 기관의 아래 자료를 토대로 제작되었습니다. 사업계획 및 일정은 개발계획별 사업주체에 의해 변경될 수 있으며, 평택 고덕 수자인풍경채 모델하우스사업주체 및 시공사와 무관합니다.
         </div>
       </div>
 

@@ -14,7 +14,7 @@ import { Helmet } from "react-helmet-async";
 
 
 const projectData = [
-  { label: '사업명', value: '고덕 수자인풍경채' },
+  { label: '사업명', value: '평택 고덕 수자인풍경채 모델하우스' },
   { label: '대지위치', value: '경기도 평택시 고덕국제신도시 일원' },
   { label: '주택형', value: '84㎡ / 101㎡ 중심 구성' },
   { label: '세대수', value: '1·2단지 총 1,126세대 규모' },
@@ -58,16 +58,16 @@ const BusinessGuide1 = () => {
 
 <Helmet>
 
-<title>고덕 수자인풍경채 | 평택 고덕국제신도시 사업안내</title>
+<title>평택 고덕 수자인풍경채 모델하우스 | 평택 고덕국제신도시 사업안내</title>
 
 <meta
 name="description"
-content="고덕 수자인풍경채 사업안내. 평택 고덕국제신도시 생활권, 서정리역 접근성, 84㎡·101㎡ 중심 구성과 1·2단지 총 1,126세대 브랜드 프리미엄을 확인하세요."
+content="평택 고덕 수자인풍경채 모델하우스 사업안내. 평택 고덕국제신도시 생활권, 서정리역 접근성, 84㎡·101㎡ 중심 구성과 1·2단지 총 1,126세대 브랜드 프리미엄을 확인하세요."
 />
 
 <meta
 name="keywords"
-content="고덕 수자인풍경채, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 평택 분양, 고덕국제신도시 아파트, 서정리역 아파트"
+content="평택 고덕 수자인풍경채 모델하우스, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 평택 분양, 고덕국제신도시 아파트, 서정리역 아파트"
 />
 
 <meta name="robots" content="index,follow" />
@@ -78,11 +78,11 @@ href="https://www.diarivalencia.com/BusinessGuide/intro"
 />
 
 <meta property="og:type" content="website" />
-<meta property="og:site_name" content="고덕 수자인풍경채" />
+<meta property="og:site_name" content="평택 고덕 수자인풍경채 모델하우스" />
 
 <meta
 property="og:title"
-content="고덕 수자인풍경채 | 평택 고덕국제신도시 사업안내"
+content="평택 고덕 수자인풍경채 모델하우스 | 평택 고덕국제신도시 사업안내"
 />
 
 <meta
@@ -107,12 +107,12 @@ content="https://www.diarivalencia.com/img/og/business.jpg"
 
 <meta
 name="twitter:title"
-content="고덕 수자인풍경채 | 평택 고덕국제신도시 사업안내"
+content="평택 고덕 수자인풍경채 모델하우스 | 평택 고덕국제신도시 사업안내"
 />
 
 <meta
 name="twitter:description"
-content="고덕 수자인풍경채 사업안내 및 브랜드 프리미엄 정보를 확인하세요."
+content="평택 고덕 수자인풍경채 모델하우스 사업안내 및 브랜드 프리미엄 정보를 확인하세요."
 />
 
 <meta
@@ -125,7 +125,7 @@ content="https://www.diarivalencia.com/img/og/business.jpg"
 "@context":"https://schema.org",
 "@type":"WebPage",
 
-"name":"고덕 수자인풍경채 사업안내",
+"name":"평택 고덕 수자인풍경채 모델하우스 사업안내",
 
 "url":"https://www.diarivalencia.com/BusinessGuide/intro",
 
@@ -169,11 +169,11 @@ content="https://www.diarivalencia.com/img/og/business.jpg"
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-고덕 수자인풍경채 - 사업안내
+평택 고덕 수자인풍경채 모델하우스 - 사업안내
 </h1>
 
 <p className={styles.screenReaderOnly}>
-고덕 수자인풍경채는 평택 고덕국제신도시 생활권에 조성되는 브랜드 아파트입니다.
+평택 고덕 수자인풍경채 모델하우스는 평택 고덕국제신도시 생활권에 조성되는 브랜드 아파트입니다.
 고덕국제신도시의 풍부한 생활 인프라와 서정리역 접근성,
 교육·상업시설·공원 환경을 누릴 수 있는 미래가치 중심 단지입니다.
 84㎡와 101㎡ 중심 구성 및 총 1·2단지 1,126세대 규모의 브랜드 주거단지 정보를 제공합니다.
@@ -181,10 +181,10 @@ content="https://www.diarivalencia.com/img/og/business.jpg"
 
 <div className={styles.textBox}>
 <div>평택 고덕국제신도시가 품은 새로운 주거 가치</div>
-<div>고덕 수자인풍경채, 브랜드 프리미엄을 완성합니다.</div>
+<div>평택 고덕 수자인풍경채 모델하우스, 브랜드 프리미엄을 완성합니다.</div>
 </div>
 
-<img className={styles.img3} src={page1} alt="고덕 수자인풍경채 사업개요 이미지"/>
+<img className={styles.img3} src={page1} alt="평택 고덕 수자인풍경채 모델하우스 사업개요 이미지"/>
 
 			<div className={styles.tableContainer}>
 				{!isMobile && <img className={styles.tableImg} src={tableImage} />}

@@ -65,13 +65,13 @@ const FloorPlanVideos = () => {
       <MenuBar contents={menuContents} />
 
       <h1 className={styles.screenReaderOnly}>
-        고덕 수자인풍경채- 홍보영상
+        평택 고덕 수자인풍경채 모델하우스- 홍보영상
       </h1>
       <p className={styles.screenReaderOnly}>세대안내영상 안내 페이지입니다.</p>
 
 			<div className={styles.textBox}>
 				<div>강화의 새로운 기준 위에</div>
-				<div>고덕 수자인풍경채가 자부심으로 찾아옵니다.</div>
+				<div>평택 고덕 수자인풍경채 모델하우스가 자부심으로 찾아옵니다.</div>
 			</div>
 
       {/* 탭 메뉴 */}

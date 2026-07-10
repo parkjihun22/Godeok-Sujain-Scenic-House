@@ -89,7 +89,7 @@ function App() {
         {/* Promotion: 이전 URL → 새 URL 리다이렉트 */}
         <Route
           path="/Promotion/Press"
-          element={<Navigate to="/고덕 수자인풍경채/press" replace />}
+          element={<Navigate to="/평택 고덕 수자인풍경채 모델하우스/press" replace />}
         />
 
         {/* site 기반 라우트: press 목록 / 상세 */}

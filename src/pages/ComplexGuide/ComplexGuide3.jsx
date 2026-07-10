@@ -51,16 +51,16 @@ const ComplexGuide3 = () => {
   return (
     <div className={styles.container}>
 <Helmet>
-  <title>고덕 수자인풍경채 | 커뮤니티</title>
+  <title>평택 고덕 수자인풍경채 모델하우스 | 커뮤니티</title>
 
   <meta
     name="description"
-    content="고덕 수자인풍경채 커뮤니티 안내. 평택 고덕국제신도시 수자인풍경채의 입주민 편의시설, 여가 공간, 커뮤니티 특화 설계와 단지 내 생활 가치를 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 커뮤니티 안내. 평택 고덕국제신도시 수자인풍경채의 입주민 편의시설, 여가 공간, 커뮤니티 특화 설계와 단지 내 생활 가치를 확인하세요."
   />
 
   <meta
     name="keywords"
-    content="고덕 수자인풍경채 커뮤니티, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트 커뮤니티, 고덕 수자인풍경채 단지안내"
+    content="평택 고덕 수자인풍경채 모델하우스 커뮤니티, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트 커뮤니티, 평택 고덕 수자인풍경채 모델하우스 단지안내"
   />
 
   <link
@@ -72,11 +72,11 @@ const ComplexGuide3 = () => {
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="고덕 수자인풍경채" />
+  <meta property="og:site_name" content="평택 고덕 수자인풍경채 모델하우스" />
 
   <meta
     property="og:title"
-    content="고덕 수자인풍경채 | 커뮤니티"
+    content="평택 고덕 수자인풍경채 모델하우스 | 커뮤니티"
   />
 
   <meta
@@ -102,24 +102,24 @@ const ComplexGuide3 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-고덕 수자인풍경채 - 커뮤니티
+평택 고덕 수자인풍경채 모델하우스 - 커뮤니티
 </h1>
 
 <p className={styles.screenReaderOnly}>
-고덕 수자인풍경채 커뮤니티 페이지입니다.
+평택 고덕 수자인풍경채 모델하우스 커뮤니티 페이지입니다.
 평택 고덕국제신도시 수자인풍경채의 입주민 편의시설과
 여가 공간, 커뮤니티 특화 설계, 단지 내 생활 가치를 확인할 수 있습니다.
 </p>
 
 <div className={styles.textBox}>
   <div>평택 고덕국제신도시의 품격 있는 생활 가치</div>
-  <div>고덕 수자인풍경채 커뮤니티를 확인하세요.</div>
+  <div>평택 고덕 수자인풍경채 모델하우스 커뮤니티를 확인하세요.</div>
 </div>
 
 <img
   className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
   src={page1}
-  alt="고덕 수자인풍경채 커뮤니티 및 입주민 편의시설 안내 이미지"
+  alt="평택 고덕 수자인풍경채 모델하우스 커뮤니티 및 입주민 편의시설 안내 이미지"
   onLoad={handleImageLoad}
 />
 

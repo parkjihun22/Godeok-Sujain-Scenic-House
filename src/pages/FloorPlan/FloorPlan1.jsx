@@ -69,14 +69,14 @@ const FloorPlan1 = () => {
 
       <div className={styles.textBox}>
         <div>평택 고덕국제신도시의 새로운 주거 프리미엄</div>
-        <div>고덕 수자인풍경채를 만나보세요.</div>
+        <div>평택 고덕 수자인풍경채 모델하우스를 만나보세요.</div>
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
       <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="고덕 수자인풍경채 평면안내 이미지1"
+        alt="평택 고덕 수자인풍경채 모델하우스 평면안내 이미지1"
         onLoad={handleImageLoad}
       />
 

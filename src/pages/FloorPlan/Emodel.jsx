@@ -45,16 +45,16 @@ const Emodel = () => {
     <div className={styles.container}>
 <Helmet>
   {/* 핵심 SEO 페이지: E모델하우스 */}
-  <title>고덕 수자인풍경채 | E모델하우스</title>
+  <title>평택 고덕 수자인풍경채 모델하우스 | E모델하우스</title>
 
   <meta
     name="description"
-    content="고덕 수자인풍경채 E모델하우스 안내. 평택 고덕국제신도시 수자인풍경채의 세대 평면, 실내 구조, 공간 구성과 주거 동선을 온라인으로 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 E모델하우스 안내. 평택 고덕국제신도시 수자인풍경채의 세대 평면, 실내 구조, 공간 구성과 주거 동선을 온라인으로 확인하세요."
   />
 
   <meta
     name="keywords"
-    content="고덕 수자인풍경채 E모델하우스, 고덕 수자인풍경채 모델하우스, 고덕국제신도시 수자인풍경채 평면도, 평택 고덕 아파트 모델하우스"
+    content="평택 고덕 수자인풍경채 모델하우스 E모델하우스, 평택 고덕 수자인풍경채 모델하우스, 고덕국제신도시 수자인풍경채 평면도, 평택 고덕 아파트 모델하우스"
   />
 
   <meta name="robots" content="index,follow" />
@@ -65,8 +65,8 @@ const Emodel = () => {
   />
 
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="고덕 수자인풍경채" />
-  <meta property="og:title" content="고덕 수자인풍경채 | E모델하우스" />
+  <meta property="og:site_name" content="평택 고덕 수자인풍경채 모델하우스" />
+  <meta property="og:title" content="평택 고덕 수자인풍경채 모델하우스 | E모델하우스" />
   <meta
     property="og:description"
     content="고덕국제신도시 수자인풍경채 E모델하우스에서 세대 평면과 공간 구성을 온라인으로 확인하세요."
@@ -77,10 +77,10 @@ const Emodel = () => {
   <meta property="og:image:height" content="630" />
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="고덕 수자인풍경채 | E모델하우스" />
+  <meta name="twitter:title" content="평택 고덕 수자인풍경채 모델하우스 | E모델하우스" />
   <meta
     name="twitter:description"
-    content="고덕 수자인풍경채 E모델하우스로 세대 평면과 실내 공간을 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 E모델하우스로 세대 평면과 실내 공간을 확인하세요."
   />
   <meta name="twitter:image" content="https://www.diarivalencia.com/img/og/emodel.jpg" />
   <meta name="twitter:url" content="https://www.diarivalencia.com/FloorPlan/Emodel" />
@@ -89,10 +89,10 @@ const Emodel = () => {
     {JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "고덕 수자인풍경채 - E모델하우스",
+      "name": "평택 고덕 수자인풍경채 모델하우스 - E모델하우스",
       "url": "https://www.diarivalencia.com/FloorPlan/Emodel",
       "description":
-        "고덕 수자인풍경채 E모델하우스 페이지입니다. 세대 평면, 실내 구조, 공간 구성과 주거 동선을 온라인으로 확인할 수 있습니다.",
+        "평택 고덕 수자인풍경채 모델하우스 E모델하우스 페이지입니다. 세대 평면, 실내 구조, 공간 구성과 주거 동선을 온라인으로 확인할 수 있습니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://www.diarivalencia.com/img/og/emodel.jpg",
@@ -116,18 +116,18 @@ const Emodel = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-  고덕 수자인풍경채 - E모델하우스
+  평택 고덕 수자인풍경채 모델하우스 - E모델하우스
 </h1>
 
 <p className={styles.screenReaderOnly}>
-  고덕 수자인풍경채 E모델하우스 페이지입니다.
+  평택 고덕 수자인풍경채 모델하우스 E모델하우스 페이지입니다.
   평택 고덕국제신도시 수자인풍경채의 세대 평면, 실내 구조,
   공간 구성과 주거 동선을 온라인으로 확인할 수 있습니다.
 </p>
 
 <div className={styles.textBox}>
   <div>평택 고덕국제신도시의 주거 공간을 온라인으로 확인</div>
-  <div>고덕 수자인풍경채 E모델하우스를 살펴보세요.</div>
+  <div>평택 고덕 수자인풍경채 모델하우스 E모델하우스를 살펴보세요.</div>
 </div>
 
 
@@ -136,7 +136,7 @@ const Emodel = () => {
       <Header isChanged={isScroll} />
       <FixIcon />
 
-      <h1 className={styles.screenReaderOnly}>고덕 수자인풍경채- E모델하우스</h1>
+      <h1 className={styles.screenReaderOnly}>평택 고덕 수자인풍경채 모델하우스- E모델하우스</h1>
 
       <div className={styles.tabMenu}>
         {menuContents.slice(0, 5).map((tab, idx) => (

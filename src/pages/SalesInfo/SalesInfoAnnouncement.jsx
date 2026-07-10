@@ -74,16 +74,16 @@ const ComplexGuide1 = () => {
 
       
 <Helmet>
-  <title>고덕 수자인풍경채 | 모집공고 안내</title>
+  <title>평택 고덕 수자인풍경채 모델하우스 | 모집공고 안내</title>
 
   <meta
     name="description"
-    content="고덕 수자인풍경채 모집공고 안내. 평택 고덕국제신도시 수자인풍경채의 공급 정보, 청약 일정, 신청 자격, 당첨자 발표, 계약 절차 및 유의사항을 공식 모집공고 기준으로 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 모집공고 안내. 평택 고덕국제신도시 수자인풍경채의 공급 정보, 청약 일정, 신청 자격, 당첨자 발표, 계약 절차 및 유의사항을 공식 모집공고 기준으로 확인하세요."
   />
 
   <meta
     name="keywords"
-    content="고덕 수자인풍경채 모집공고, 고덕국제신도시 수자인풍경채, 평택 고덕 청약, 고덕 수자인풍경채 분양, 고덕 수자인풍경채 공급안내"
+    content="평택 고덕 수자인풍경채 모델하우스 모집공고, 고덕국제신도시 수자인풍경채, 평택 고덕 청약, 평택 고덕 수자인풍경채 모델하우스 분양, 평택 고덕 수자인풍경채 모델하우스 공급안내"
   />
 
   <link
@@ -101,24 +101,24 @@ const ComplexGuide1 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-고덕 수자인풍경채 - 모집공고 안내
+평택 고덕 수자인풍경채 모델하우스 - 모집공고 안내
 </h1>
 
 <p className={styles.screenReaderOnly}>
-본 페이지에서는 고덕 수자인풍경채 모집공고 주요 사항을 안내합니다.
+본 페이지에서는 평택 고덕 수자인풍경채 모델하우스 모집공고 주요 사항을 안내합니다.
 평택 고덕국제신도시 수자인풍경채의 공급 정보와 청약 일정,
 신청 자격, 당첨자 발표, 계약 절차 및 유의사항을 공식 모집공고 기준으로 확인하세요.
 </p>
 
 <div className={styles.textBox}>
-  <div>고덕 수자인풍경채 모집공고를 확인하세요</div>
+  <div>평택 고덕 수자인풍경채 모델하우스 모집공고를 확인하세요</div>
   <div>평택 고덕국제신도시 공식 안내</div>
 </div>
 
 <img
   className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
   src={page1}
-  alt="고덕 수자인풍경채 모집공고 및 청약 안내 이미지"
+  alt="평택 고덕 수자인풍경채 모델하우스 모집공고 및 청약 안내 이미지"
   onLoad={handleImageLoad}
 />
 

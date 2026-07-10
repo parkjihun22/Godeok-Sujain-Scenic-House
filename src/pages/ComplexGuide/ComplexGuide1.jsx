@@ -52,16 +52,16 @@ const ComplexGuide1 = () => {
 		<div className={styles.container}>
 <Helmet>
   {/* 페이지별 메타 */}
-  <title>고덕 수자인풍경채 | 단지배치도</title>
+  <title>평택 고덕 수자인풍경채 모델하우스 | 단지배치도</title>
 
   <meta
     name="description"
-    content="고덕 수자인풍경채 단지배치도 안내. 평택 고덕국제신도시 수자인풍경채의 단지 구성, 조경 특화, 커뮤니티 시설, 보행 동선 및 생활 환경을 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 단지배치도 안내. 평택 고덕국제신도시 수자인풍경채의 단지 구성, 조경 특화, 커뮤니티 시설, 보행 동선 및 생활 환경을 확인하세요."
   />
 
   <meta
     name="keywords"
-    content="고덕 수자인풍경채 단지배치도, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 고덕 수자인풍경채 커뮤니티, 고덕 수자인풍경채 단지안내"
+    content="평택 고덕 수자인풍경채 모델하우스 단지배치도, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 평택 고덕 수자인풍경채 모델하우스 커뮤니티, 평택 고덕 수자인풍경채 모델하우스 단지안내"
   />
 
   <meta name="robots" content="index,follow" />
@@ -73,11 +73,11 @@ const ComplexGuide1 = () => {
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="고덕 수자인풍경채" />
+  <meta property="og:site_name" content="평택 고덕 수자인풍경채 모델하우스" />
 
   <meta
     property="og:title"
-    content="고덕 수자인풍경채 | 단지배치도"
+    content="평택 고덕 수자인풍경채 모델하우스 | 단지배치도"
   />
 
   <meta
@@ -103,12 +103,12 @@ const ComplexGuide1 = () => {
 
   <meta
     name="twitter:title"
-    content="고덕 수자인풍경채 | 단지배치도"
+    content="평택 고덕 수자인풍경채 모델하우스 | 단지배치도"
   />
 
   <meta
     name="twitter:description"
-    content="고덕 수자인풍경채 단지 구성, 조경 설계, 커뮤니티 및 생활 동선을 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 단지 구성, 조경 설계, 커뮤니티 및 생활 동선을 확인하세요."
   />
 
   <meta
@@ -127,12 +127,12 @@ const ComplexGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
 
-      "name":"고덕 수자인풍경채 - 단지배치도",
+      "name":"평택 고덕 수자인풍경채 모델하우스 - 단지배치도",
 
       "url":"https://www.diarivalencia.com/ComplexGuide/intro",
 
       "description":
-      "고덕 수자인풍경채 단지배치도 페이지입니다. 평택 고덕국제신도시 수자인풍경채의 단지 구성과 조경 특화, 커뮤니티 시설, 생활 동선을 확인할 수 있습니다.",
+      "평택 고덕 수자인풍경채 모델하우스 단지배치도 페이지입니다. 평택 고덕국제신도시 수자인풍경채의 단지 구성과 조경 특화, 커뮤니티 시설, 생활 동선을 확인할 수 있습니다.",
 
       "primaryImageOfPage": {
         "@type": "ImageObject",
@@ -170,11 +170,11 @@ const ComplexGuide1 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-고덕 수자인풍경채 - 단지배치도
+평택 고덕 수자인풍경채 모델하우스 - 단지배치도
 </h1>
 
 <p className={styles.screenReaderOnly}>
-고덕 수자인풍경채 단지배치도 페이지입니다.
+평택 고덕 수자인풍경채 모델하우스 단지배치도 페이지입니다.
 평택 고덕국제신도시 수자인풍경채의 단지 구성과
 조경 특화 설계, 커뮤니티 시설, 보행 동선 및 생활 환경을
 시각적으로 확인할 수 있습니다.
@@ -182,13 +182,13 @@ const ComplexGuide1 = () => {
 
 <div className={styles.textBox}>
   <div>평택 고덕국제신도시가 제안하는 새로운 주거 공간</div>
-  <div>고덕 수자인풍경채, 프리미엄 단지 가치를 완성합니다.</div>
+  <div>평택 고덕 수자인풍경채 모델하우스, 프리미엄 단지 가치를 완성합니다.</div>
 </div>
 
 <img
   className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
   src={page1}
-  alt="고덕 수자인풍경채 단지배치도 및 단지안내 이미지"
+  alt="평택 고덕 수자인풍경채 모델하우스 단지배치도 및 단지안내 이미지"
   onLoad={handleImageLoad}
 />
 

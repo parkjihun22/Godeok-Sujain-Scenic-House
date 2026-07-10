@@ -66,16 +66,16 @@ const BusinessGuide2 = () => {
 		<div className={styles.container}>
 <Helmet>
   {/* 필수 메타 */}
-  <title>고덕 수자인풍경채 | 공급안내</title>
+  <title>평택 고덕 수자인풍경채 모델하우스 | 공급안내</title>
 
   <meta
     name="description"
-    content="고덕 수자인풍경채 공급안내. 평택 고덕국제신도시 수자인풍경채의 공급정보, 주택형 구성, 청약 절차, 제출서류 및 계약 관련 주요 내용을 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 공급안내. 평택 고덕국제신도시 수자인풍경채의 공급정보, 주택형 구성, 청약 절차, 제출서류 및 계약 관련 주요 내용을 확인하세요."
   />
 
   <meta
     name="keywords"
-    content="고덕 수자인풍경채 공급안내, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 고덕 수자인풍경채 청약, 고덕 수자인풍경채 모집공고"
+    content="평택 고덕 수자인풍경채 모델하우스 공급안내, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 평택 고덕 수자인풍경채 모델하우스 청약, 평택 고덕 수자인풍경채 모델하우스 모집공고"
   />
 
   <meta name="robots" content="index,follow" />
@@ -87,11 +87,11 @@ const BusinessGuide2 = () => {
 
   {/* Open Graph */}
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="고덕 수자인풍경채" />
+  <meta property="og:site_name" content="평택 고덕 수자인풍경채 모델하우스" />
 
   <meta
     property="og:title"
-    content="고덕 수자인풍경채 | 공급안내"
+    content="평택 고덕 수자인풍경채 모델하우스 | 공급안내"
   />
 
   <meta
@@ -117,11 +117,11 @@ const BusinessGuide2 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-고덕 수자인풍경채 - 공급안내
+평택 고덕 수자인풍경채 모델하우스 - 공급안내
 </h1>
 
 <p className={styles.screenReaderOnly}>
-고덕 수자인풍경채 공급안내 페이지입니다.
+평택 고덕 수자인풍경채 모델하우스 공급안내 페이지입니다.
 평택 고덕국제신도시 수자인풍경채의 주택형 구성,
 청약 접수 절차, 공급 정보, 제출서류 및 계약 관련 주요 사항을
 한눈에 확인할 수 있습니다.
@@ -129,13 +129,13 @@ const BusinessGuide2 = () => {
 
 <div className={styles.textBox}>
   <div>평택 고덕국제신도시의 새로운 주거 프리미엄</div>
-  <div>고덕 수자인풍경채 공급정보를 확인하세요.</div>
+  <div>평택 고덕 수자인풍경채 모델하우스 공급정보를 확인하세요.</div>
 </div>
 
 <img
 className={`${styles.image4} ${isImageVisible ? styles.visible : ''}`}
 src={page1}
-alt="고덕 수자인풍경채 공급정보 및 청약 안내 이미지"
+alt="평택 고덕 수자인풍경채 모델하우스 공급정보 및 청약 안내 이미지"
 />
 
 

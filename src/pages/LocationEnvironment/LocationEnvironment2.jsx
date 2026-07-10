@@ -46,16 +46,16 @@ const LocationEnvironment1 = () => {
   return (
     <div className={styles.container}>
 <Helmet>
-  <title>고덕 수자인풍경채 | 프리미엄</title>
+  <title>평택 고덕 수자인풍경채 모델하우스 | 프리미엄</title>
 
   <meta
     name="description"
-    content="고덕 수자인풍경채 프리미엄 안내. 평택 고덕국제신도시 수자인풍경채의 브랜드 가치, 생활 인프라, 광역 교통 환경, 미래가치와 주거 프리미엄을 확인하세요."
+    content="평택 고덕 수자인풍경채 모델하우스 프리미엄 안내. 평택 고덕국제신도시 수자인풍경채의 브랜드 가치, 생활 인프라, 광역 교통 환경, 미래가치와 주거 프리미엄을 확인하세요."
   />
 
   <meta
     name="keywords"
-    content="고덕 수자인풍경채 프리미엄, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 고덕 수자인풍경채 입지, 고덕국제신도시 미래가치"
+    content="평택 고덕 수자인풍경채 모델하우스 프리미엄, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 평택 고덕 수자인풍경채 모델하우스 입지, 고덕국제신도시 미래가치"
   />
 
   <link
@@ -73,24 +73,24 @@ const LocationEnvironment1 = () => {
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-  고덕 수자인풍경채 - 프리미엄
+  평택 고덕 수자인풍경채 모델하우스 - 프리미엄
 </h1>
 
 <p className={styles.screenReaderOnly}>
-  고덕 수자인풍경채만의 프리미엄을 확인하세요.
+  평택 고덕 수자인풍경채 모델하우스만의 프리미엄을 확인하세요.
   평택 고덕국제신도시 수자인풍경채는 브랜드 가치와 생활 인프라,
   광역 교통 환경, 교육 여건, 미래가치를 함께 고려한 주거 프리미엄을 제안합니다.
 </p>
 
 <div className={styles.textBox}>
   <div>평택 고덕국제신도시 위에</div>
-  <div>고덕 수자인풍경채의 프리미엄을 누리세요.</div>
+  <div>평택 고덕 수자인풍경채 모델하우스의 프리미엄을 누리세요.</div>
 </div>
 
 <img
   src={page1}
   className={styles.image3}
-  alt="고덕 수자인풍경채 프리미엄 및 고덕국제신도시 주거가치 이미지"
+  alt="평택 고덕 수자인풍경채 모델하우스 프리미엄 및 고덕국제신도시 주거가치 이미지"
 />
 
       <Footer />

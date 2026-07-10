@@ -24,7 +24,7 @@ const items = [
       <ul className={styles.detailList}>
         <li>
           <strong>사업명</strong>
-          <span>고덕 수자인풍경채 1·2단지 </span>
+          <span>평택 고덕 수자인풍경채 모델하우스 1·2단지 </span>
         </li>
         <li>
           <strong>대지위치</strong>
@@ -64,7 +64,7 @@ const items = [
         <img
           src={mobileMap}
           className={styles.mapImage}
-          alt="고덕 수자인풍경채 입지환경 지도"
+          alt="평택 고덕 수자인풍경채 모델하우스 입지환경 지도"
         />
         <img
           src={mobileMap2}
@@ -84,7 +84,7 @@ const items = [
           <h3 className={styles.premiumTitle}>GREAT PREMIUM</h3>
           <p className={styles.premiumSubtitle}>
             고덕국제신도시 생활 인프라와 미래가치를 누리는<br />
-            고덕 수자인풍경채 프리미엄 라이프
+            평택 고덕 수자인풍경채 모델하우스 프리미엄 라이프
           </p>
         </div>
         {/* 슬라이더 */}
@@ -106,7 +106,7 @@ function PremiumSlider() {
       img: slide2,
       title: "84㎡·101㎡ 중심 주거 구성",
       desc:
-        "실수요 선호도가 높은 중대형 타입 구성<br/>가족 단위 생활에 적합한 여유로운 공간 설계<br/>고덕 수자인풍경채만의 합리적인 주거 선택",
+        "실수요 선호도가 높은 중대형 타입 구성<br/>가족 단위 생활에 적합한 여유로운 공간 설계<br/>평택 고덕 수자인풍경채 모델하우스만의 합리적인 주거 선택",
     },
     {
       img: slide3,
